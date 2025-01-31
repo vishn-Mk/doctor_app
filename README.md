@@ -10,7 +10,7 @@ splash screen
 Signin
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/signin.jpg?raw=true)
 Signup
-![image alt]()
+![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/signup1.jpg?raw=true)
 home1
 ![image alt]()
 home2
