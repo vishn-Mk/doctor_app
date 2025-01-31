@@ -257,7 +257,7 @@ class _SignUpState extends State<SignUp> {
                                 icon: Icon(Icons.facebook, color: Colors.blue), // Example icon
                                 label: const Text(
                                   'Facebook',
-                                  style: TextStyle(color: Colors.white),
+                                  style: TextStyle(color: Colors.black),
                                 ),
                               ),
                             ),
