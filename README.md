@@ -14,7 +14,7 @@ Signup
 home1
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/home1.jpg?raw=true)
 home2
-![image alt]()
+![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/home2.jpg?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
 
