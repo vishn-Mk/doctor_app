@@ -6,14 +6,24 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 splash screen
+
+
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/splash.jpg?raw=true)
 Signin
+
+
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/signin.jpg?raw=true)
 Signup
+
+
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/signup1.jpg?raw=true)
 home1
+
+
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/home1.jpg?raw=true)
 home2
+
+
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/home2.jpg?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
