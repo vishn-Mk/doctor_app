@@ -12,7 +12,7 @@ Signin
 Signup
 ![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/signup1.jpg?raw=true)
 home1
-![image alt]()
+![image alt](https://github.com/vishn-Mk/doctor_app/blob/master/home1.jpg?raw=true)
 home2
 ![image alt]()
 
