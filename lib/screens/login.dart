@@ -323,7 +323,7 @@ class _LoginState extends State<Login> {
                                           color: Colors.blue),
                                       label: const Text(
                                         'Facebook',
-                                        style: TextStyle(color: Colors.blue),
+                                        style: TextStyle(color: Colors.white),
                                       ),
                                     ),
                                   ),
